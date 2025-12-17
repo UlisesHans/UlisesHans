@@ -7,3 +7,8 @@
 
 ### Vias de contacto:
 uliseshans@gmail.com
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
