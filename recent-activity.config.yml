@@ -1,0 +1,6 @@
+settings:
+  username: "UlisesHans"
+  readme_file: "./README.md"
+  max_lines: 5
+  disabled_events: []
+  commit_msg: "Update recent activity"
